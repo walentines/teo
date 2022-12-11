@@ -1,0 +1,10 @@
+Andrei Mircea;Telefonul furat;5;Drama
+Clara Tacore;Perdeaua transparenta;9;Comedie
+Cristian Marcel;Cel mai iubit om;2;Drama
+George Caragiale;Bubico;5;Comedie
+Iustin Mircea;Pe meleaguri straini;1;Satira
+Mihai Bendeac;Telefonul din buzunar;7;Drama
+Minulescu Costin;Cana fermecata;3;Comedie
+Sabin Costel;Cheia visurilor;2;Drama
+Valentin Serban;Cine e cu noi;4;Satira
+Vlad Gabriel;Capra cu trei iezi;7;Drama
